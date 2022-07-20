@@ -1,0 +1,9 @@
+.env
+.vscode
+*.log
+*.pot
+*.pyc
+*.ini
+pycache/
+local_settings.py
+static_collected/
