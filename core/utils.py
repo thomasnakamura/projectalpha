@@ -4,10 +4,10 @@ import requests
 
 def get_asset_price(asset):
 
-    # url = f'https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol={asset}.SA&apikey={API_KEY}'
-    # res = requests.get(url).json()
-    # price = float(res['Global Quote']['05. price'])
-    price = 20
+    url = f'https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol={asset}.SA&apikey={API_KEY}'
+    res = requests.get(url).json()
+    price = float(res['Global Quote']['05. price'])
+    price
     return price
 
 def update_asset_price(*args):
