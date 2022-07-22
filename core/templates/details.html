@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -10,17 +11,24 @@
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
 </head>
+
 <body>
     <form method="post">
         {% csrf_token %}
-        {{ form }}
-        <button type="submit">Submit</button>
-        <div class="mt-5 col text-center">
-            <a href="{% url 'delete' pk=pk %}" class="btn btn-danger">Delete</a>
+        <div class="container mt-5 pt-5 border">
+            {{ form }}
+            <div class="mt-2 col text-center">
+            </div>
+            <div class="mt-2 col text-center">
+                <button type="submit" class="btn btn-primary">Submit</button>
+                <a href="{% url 'delete' pk=pk %}" class="btn btn-danger">Delete</a>
+                <a href="{% url 'home' %}" class="btn btn-info">Go Back</a>
+            </div>
+
         </div>
-        <div class="mt-5 col text-center">
-            <a href="{% url 'home' %}" class="btn btn-info">Go Back</a>
-        </div>
+    
+
     </form>
 </body>
+
 </html>

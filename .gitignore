@@ -7,3 +7,4 @@
 pycache/
 local_settings.py
 static_collected/
+ativos.py

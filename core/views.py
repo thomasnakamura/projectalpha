@@ -3,7 +3,7 @@ from django.contrib.auth.mixins import LoginRequiredMixin
 from django.views.generic.list import ListView
 from django.views.generic.edit import CreateView, UpdateView, DeleteView
 from core.forms import RegisteredAssetsForm, UserCreation
-from core.models import RegisteredAssets
+from core.models import Assets, RegisteredAssets
 from core.utils import get_asset_price
 from core.scheduler import create
 

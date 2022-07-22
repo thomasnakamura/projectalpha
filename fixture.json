@@ -1,0 +1,4338 @@
+[
+    {
+        "model": "core.assets",
+        "pk": 1,
+        "fields": {
+            "code": "RRRP",
+            "name": "RRRP"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 2,
+        "fields": {
+            "code": "TTEN",
+            "name": "TTEN"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 3,
+        "fields": {
+            "code": "EALT",
+            "name": "EALT"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 4,
+        "fields": {
+            "code": "EALT",
+            "name": "EALT"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 5,
+        "fields": {
+            "code": "ADHM",
+            "name": "ADHM"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 6,
+        "fields": {
+            "code": "AERI",
+            "name": "AERI"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 7,
+        "fields": {
+            "code": "AESB",
+            "name": "AESB"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 8,
+        "fields": {
+            "code": "TIET1",
+            "name": "TIET1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 9,
+        "fields": {
+            "code": "TIET",
+            "name": "TIET"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 10,
+        "fields": {
+            "code": "TIET",
+            "name": "TIET"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 11,
+        "fields": {
+            "code": "AFLT",
+            "name": "AFLT"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 12,
+        "fields": {
+            "code": "GRAO",
+            "name": "GRAO"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 13,
+        "fields": {
+            "code": "AGXY",
+            "name": "AGXY"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 14,
+        "fields": {
+            "code": "BRGE1",
+            "name": "BRGE1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 15,
+        "fields": {
+            "code": "BRGE1",
+            "name": "BRGE1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 16,
+        "fields": {
+            "code": "BRGE",
+            "name": "BRGE"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 17,
+        "fields": {
+            "code": "BRGE",
+            "name": "BRGE"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 18,
+        "fields": {
+            "code": "BRGE",
+            "name": "BRGE"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 19,
+        "fields": {
+            "code": "BRGE",
+            "name": "BRGE"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 20,
+        "fields": {
+            "code": "BRGE",
+            "name": "BRGE"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 21,
+        "fields": {
+            "code": "CRIV",
+            "name": "CRIV"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 22,
+        "fields": {
+            "code": "CRIV",
+            "name": "CRIV"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 23,
+        "fields": {
+            "code": "RPAD",
+            "name": "RPAD"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 24,
+        "fields": {
+            "code": "RPAD",
+            "name": "RPAD"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 25,
+        "fields": {
+            "code": "RPAD",
+            "name": "RPAD"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 26,
+        "fields": {
+            "code": "BRIV",
+            "name": "BRIV"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 27,
+        "fields": {
+            "code": "BRIV",
+            "name": "BRIV"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 28,
+        "fields": {
+            "code": "ALSO",
+            "name": "ALSO"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 29,
+        "fields": {
+            "code": "ALZR1",
+            "name": "ALZR1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 30,
+        "fields": {
+            "code": "AALR",
+            "name": "AALR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 31,
+        "fields": {
+            "code": "ALLD",
+            "name": "ALLD"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 32,
+        "fields": {
+            "code": "ALPA",
+            "name": "ALPA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 33,
+        "fields": {
+            "code": "ALPA",
+            "name": "ALPA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 34,
+        "fields": {
+            "code": "APER",
+            "name": "APER"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 35,
+        "fields": {
+            "code": "GOGL3",
+            "name": "GOGL3"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 36,
+        "fields": {
+            "code": "AVLL",
+            "name": "AVLL"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 37,
+        "fields": {
+            "code": "ALUP1",
+            "name": "ALUP1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 38,
+        "fields": {
+            "code": "ALUP",
+            "name": "ALUP"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 39,
+        "fields": {
+            "code": "ALUP",
+            "name": "ALUP"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 40,
+        "fields": {
+            "code": "BAZA",
+            "name": "BAZA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 41,
+        "fields": {
+            "code": "ABEV",
+            "name": "ABEV"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 42,
+        "fields": {
+            "code": "AMBP",
+            "name": "AMBP"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 43,
+        "fields": {
+            "code": "CBEE",
+            "name": "CBEE"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 44,
+        "fields": {
+            "code": "ANIM",
+            "name": "ANIM"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 45,
+        "fields": {
+            "code": "ARZZ",
+            "name": "ARZZ"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 46,
+        "fields": {
+            "code": "ARML",
+            "name": "ARML"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 47,
+        "fields": {
+            "code": "ASAI",
+            "name": "ASAI"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 48,
+        "fields": {
+            "code": "ATMP",
+            "name": "ATMP"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 49,
+        "fields": {
+            "code": "ATOM",
+            "name": "ATOM"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 50,
+        "fields": {
+            "code": "AURA3",
+            "name": "AURA3"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 51,
+        "fields": {
+            "code": "AZEV",
+            "name": "AZEV"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 52,
+        "fields": {
+            "code": "AZEV",
+            "name": "AZEV"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 53,
+        "fields": {
+            "code": "AZUL",
+            "name": "AZUL"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 54,
+        "fields": {
+            "code": "BTOW",
+            "name": "BTOW"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 55,
+        "fields": {
+            "code": "B3SA",
+            "name": "B3SA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 56,
+        "fields": {
+            "code": "BAHI",
+            "name": "BAHI"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 57,
+        "fields": {
+            "code": "BMGB",
+            "name": "BMGB"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 58,
+        "fields": {
+            "code": "BBDC",
+            "name": "BBDC"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 59,
+        "fields": {
+            "code": "BBDC",
+            "name": "BBDC"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 60,
+        "fields": {
+            "code": "BBAS",
+            "name": "BBAS"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 61,
+        "fields": {
+            "code": "BRSR",
+            "name": "BRSR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 62,
+        "fields": {
+            "code": "BIDI1",
+            "name": "BIDI1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 63,
+        "fields": {
+            "code": "BIDI",
+            "name": "BIDI"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 64,
+        "fields": {
+            "code": "BIDI",
+            "name": "BIDI"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 65,
+        "fields": {
+            "code": "MODL",
+            "name": "MODL"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 66,
+        "fields": {
+            "code": "MODL1",
+            "name": "MODL1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 67,
+        "fields": {
+            "code": "MODL",
+            "name": "MODL"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 68,
+        "fields": {
+            "code": "BPAN",
+            "name": "BPAN"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 69,
+        "fields": {
+            "code": "SANB",
+            "name": "SANB"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 70,
+        "fields": {
+            "code": "SANB1",
+            "name": "SANB1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 71,
+        "fields": {
+            "code": "BGIP",
+            "name": "BGIP"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 72,
+        "fields": {
+            "code": "BGIP",
+            "name": "BGIP"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 73,
+        "fields": {
+            "code": "BEES",
+            "name": "BEES"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 74,
+        "fields": {
+            "code": "BEES",
+            "name": "BEES"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 75,
+        "fields": {
+            "code": "BPAR",
+            "name": "BPAR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 76,
+        "fields": {
+            "code": "BRSR",
+            "name": "BRSR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 77,
+        "fields": {
+            "code": "BRSR",
+            "name": "BRSR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 78,
+        "fields": {
+            "code": "BDLL",
+            "name": "BDLL"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 79,
+        "fields": {
+            "code": "BDLL",
+            "name": "BDLL"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 80,
+        "fields": {
+            "code": "BTTL",
+            "name": "BTTL"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 81,
+        "fields": {
+            "code": "BALM",
+            "name": "BALM"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 82,
+        "fields": {
+            "code": "BALM",
+            "name": "BALM"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 83,
+        "fields": {
+            "code": "BBPO1",
+            "name": "BBPO1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 84,
+        "fields": {
+            "code": "BBSE",
+            "name": "BBSE"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 85,
+        "fields": {
+            "code": "BMOB",
+            "name": "BMOB"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 86,
+        "fields": {
+            "code": "BMKS",
+            "name": "BMKS"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 87,
+        "fields": {
+            "code": "BIOM",
+            "name": "BIOM"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 88,
+        "fields": {
+            "code": "BSEV",
+            "name": "BSEV"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 89,
+        "fields": {
+            "code": "BKBR",
+            "name": "BKBR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 90,
+        "fields": {
+            "code": "BLAU",
+            "name": "BLAU"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 91,
+        "fields": {
+            "code": "SOJA",
+            "name": "SOJA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 92,
+        "fields": {
+            "code": "BOAS",
+            "name": "BOAS"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 93,
+        "fields": {
+            "code": "BOBR",
+            "name": "BOBR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 94,
+        "fields": {
+            "code": "BOBR",
+            "name": "BOBR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 95,
+        "fields": {
+            "code": "BBRK",
+            "name": "BBRK"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 96,
+        "fields": {
+            "code": "BRML",
+            "name": "BRML"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 97,
+        "fields": {
+            "code": "BRBI1",
+            "name": "BRBI1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 98,
+        "fields": {
+            "code": "BRPR",
+            "name": "BRPR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 99,
+        "fields": {
+            "code": "BRAP",
+            "name": "BRAP"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 100,
+        "fields": {
+            "code": "BRAP",
+            "name": "BRAP"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 101,
+        "fields": {
+            "code": "AGRO",
+            "name": "AGRO"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 102,
+        "fields": {
+            "code": "BRKM",
+            "name": "BRKM"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 103,
+        "fields": {
+            "code": "BRKM",
+            "name": "BRKM"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 104,
+        "fields": {
+            "code": "BRKM",
+            "name": "BRKM"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 105,
+        "fields": {
+            "code": "BSLI",
+            "name": "BSLI"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 106,
+        "fields": {
+            "code": "BSLI",
+            "name": "BSLI"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 107,
+        "fields": {
+            "code": "BRFS",
+            "name": "BRFS"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 108,
+        "fields": {
+            "code": "BRIT",
+            "name": "BRIT"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 109,
+        "fields": {
+            "code": "BTLG1",
+            "name": "BTLG1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 110,
+        "fields": {
+            "code": "BPAC1",
+            "name": "BPAC1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 111,
+        "fields": {
+            "code": "BPAC",
+            "name": "BPAC"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 112,
+        "fields": {
+            "code": "BPAC",
+            "name": "BPAC"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 113,
+        "fields": {
+            "code": "CXSE",
+            "name": "CXSE"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 114,
+        "fields": {
+            "code": "CAMB",
+            "name": "CAMB"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 115,
+        "fields": {
+            "code": "CAML",
+            "name": "CAML"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 116,
+        "fields": {
+            "code": "CRFB",
+            "name": "CRFB"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 117,
+        "fields": {
+            "code": "CAS",
+            "name": "CAS"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 118,
+        "fields": {
+            "code": "CASN",
+            "name": "CASN"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 119,
+        "fields": {
+            "code": "CASN",
+            "name": "CASN"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 120,
+        "fields": {
+            "code": "CBAV",
+            "name": "CBAV"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 121,
+        "fields": {
+            "code": "CCRO",
+            "name": "CCRO"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 122,
+        "fields": {
+            "code": "CEAB",
+            "name": "CEAB"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 123,
+        "fields": {
+            "code": "CEBR",
+            "name": "CEBR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 124,
+        "fields": {
+            "code": "CEBR",
+            "name": "CEBR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 125,
+        "fields": {
+            "code": "CEBR",
+            "name": "CEBR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 126,
+        "fields": {
+            "code": "CEDO",
+            "name": "CEDO"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 127,
+        "fields": {
+            "code": "CEDO",
+            "name": "CEDO"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 128,
+        "fields": {
+            "code": "CEED",
+            "name": "CEED"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 129,
+        "fields": {
+            "code": "CEED",
+            "name": "CEED"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 130,
+        "fields": {
+            "code": "EEEL",
+            "name": "EEEL"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 131,
+        "fields": {
+            "code": "EEEL",
+            "name": "EEEL"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 132,
+        "fields": {
+            "code": "CEGR",
+            "name": "CEGR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 133,
+        "fields": {
+            "code": "CLSC",
+            "name": "CLSC"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 134,
+        "fields": {
+            "code": "CLSC",
+            "name": "CLSC"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 135,
+        "fields": {
+            "code": "GPAR",
+            "name": "GPAR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 136,
+        "fields": {
+            "code": "CEPE",
+            "name": "CEPE"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 137,
+        "fields": {
+            "code": "CEPE",
+            "name": "CEPE"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 138,
+        "fields": {
+            "code": "CEPE",
+            "name": "CEPE"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 139,
+        "fields": {
+            "code": "MAPT",
+            "name": "MAPT"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 140,
+        "fields": {
+            "code": "MAPT",
+            "name": "MAPT"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 141,
+        "fields": {
+            "code": "ELET",
+            "name": "ELET"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 142,
+        "fields": {
+            "code": "ELET",
+            "name": "ELET"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 143,
+        "fields": {
+            "code": "CESP",
+            "name": "CESP"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 144,
+        "fields": {
+            "code": "CESP",
+            "name": "CESP"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 145,
+        "fields": {
+            "code": "CESP",
+            "name": "CESP"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 146,
+        "fields": {
+            "code": "HGTX",
+            "name": "HGTX"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 147,
+        "fields": {
+            "code": "CIEL",
+            "name": "CIEL"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 148,
+        "fields": {
+            "code": "CLSA",
+            "name": "CLSA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 149,
+        "fields": {
+            "code": "CEEB",
+            "name": "CEEB"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 150,
+        "fields": {
+            "code": "CEEB",
+            "name": "CEEB"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 151,
+        "fields": {
+            "code": "COCE",
+            "name": "COCE"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 152,
+        "fields": {
+            "code": "COCE",
+            "name": "COCE"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 153,
+        "fields": {
+            "code": "COGN",
+            "name": "COGN"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 154,
+        "fields": {
+            "code": "CGAS",
+            "name": "CGAS"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 155,
+        "fields": {
+            "code": "CGAS",
+            "name": "CGAS"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 156,
+        "fields": {
+            "code": "LCAM",
+            "name": "LCAM"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 157,
+        "fields": {
+            "code": "SBSP",
+            "name": "SBSP"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 158,
+        "fields": {
+            "code": "CMIG",
+            "name": "CMIG"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 159,
+        "fields": {
+            "code": "CMIG",
+            "name": "CMIG"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 160,
+        "fields": {
+            "code": "CPLE",
+            "name": "CPLE"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 161,
+        "fields": {
+            "code": "CPLE",
+            "name": "CPLE"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 162,
+        "fields": {
+            "code": "CSNA",
+            "name": "CSNA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 163,
+        "fields": {
+            "code": "CALI",
+            "name": "CALI"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 164,
+        "fields": {
+            "code": "CALI",
+            "name": "CALI"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 165,
+        "fields": {
+            "code": "CSMG",
+            "name": "CSMG"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 166,
+        "fields": {
+            "code": "CPLE",
+            "name": "CPLE"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 167,
+        "fields": {
+            "code": "CORR",
+            "name": "CORR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 168,
+        "fields": {
+            "code": "RLOG",
+            "name": "RLOG"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 169,
+        "fields": {
+            "code": "CSAN",
+            "name": "CSAN"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 170,
+        "fields": {
+            "code": "CSRN",
+            "name": "CSRN"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 171,
+        "fields": {
+            "code": "CSRN",
+            "name": "CSRN"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 172,
+        "fields": {
+            "code": "CSRN",
+            "name": "CSRN"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 173,
+        "fields": {
+            "code": "CTNM",
+            "name": "CTNM"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 174,
+        "fields": {
+            "code": "CTNM",
+            "name": "CTNM"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 175,
+        "fields": {
+            "code": "CPFE",
+            "name": "CPFE"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 176,
+        "fields": {
+            "code": "CRDE",
+            "name": "CRDE"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 177,
+        "fields": {
+            "code": "CRPG",
+            "name": "CRPG"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 178,
+        "fields": {
+            "code": "CRPG",
+            "name": "CRPG"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 179,
+        "fields": {
+            "code": "CRPG",
+            "name": "CRPG"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 180,
+        "fields": {
+            "code": "CSED",
+            "name": "CSED"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 181,
+        "fields": {
+            "code": "HGLG1",
+            "name": "HGLG1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 182,
+        "fields": {
+            "code": "CMIN",
+            "name": "CMIN"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 183,
+        "fields": {
+            "code": "CARD",
+            "name": "CARD"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 184,
+        "fields": {
+            "code": "CURY",
+            "name": "CURY"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 185,
+        "fields": {
+            "code": "CVCB",
+            "name": "CVCB"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 186,
+        "fields": {
+            "code": "CCPR",
+            "name": "CCPR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 187,
+        "fields": {
+            "code": "CYRE",
+            "name": "CYRE"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 188,
+        "fields": {
+            "code": "DMVF",
+            "name": "DMVF"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 189,
+        "fields": {
+            "code": "DASA",
+            "name": "DASA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 190,
+        "fields": {
+            "code": "DESK",
+            "name": "DESK"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 191,
+        "fields": {
+            "code": "PNVL",
+            "name": "PNVL"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 192,
+        "fields": {
+            "code": "PNVL",
+            "name": "PNVL"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 193,
+        "fields": {
+            "code": "DIRR",
+            "name": "DIRR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 194,
+        "fields": {
+            "code": "DOHL",
+            "name": "DOHL"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 195,
+        "fields": {
+            "code": "DOHL",
+            "name": "DOHL"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 196,
+        "fields": {
+            "code": "DMMO",
+            "name": "DMMO"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 197,
+        "fields": {
+            "code": "DOTZ",
+            "name": "DOTZ"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 198,
+        "fields": {
+            "code": "DTCY",
+            "name": "DTCY"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 199,
+        "fields": {
+            "code": "DTEX",
+            "name": "DTEX"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 200,
+        "fields": {
+            "code": "ECOR",
+            "name": "ECOR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 201,
+        "fields": {
+            "code": "ENBR",
+            "name": "ENBR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 202,
+        "fields": {
+            "code": "EKTR",
+            "name": "EKTR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 203,
+        "fields": {
+            "code": "EKTR",
+            "name": "EKTR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 204,
+        "fields": {
+            "code": "ELET",
+            "name": "ELET"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 205,
+        "fields": {
+            "code": "ELMD",
+            "name": "ELMD"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 206,
+        "fields": {
+            "code": "LIPR",
+            "name": "LIPR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 207,
+        "fields": {
+            "code": "EMAE",
+            "name": "EMAE"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 208,
+        "fields": {
+            "code": "EMAE",
+            "name": "EMAE"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 209,
+        "fields": {
+            "code": "EMBR",
+            "name": "EMBR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 210,
+        "fields": {
+            "code": "ENAT",
+            "name": "ENAT"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 211,
+        "fields": {
+            "code": "ECPR",
+            "name": "ECPR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 212,
+        "fields": {
+            "code": "ECPR",
+            "name": "ECPR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 213,
+        "fields": {
+            "code": "ENG",
+            "name": "ENG"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 214,
+        "fields": {
+            "code": "ENGI1",
+            "name": "ENGI1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 215,
+        "fields": {
+            "code": "ENGI",
+            "name": "ENGI"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 216,
+        "fields": {
+            "code": "ENGI",
+            "name": "ENGI"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 217,
+        "fields": {
+            "code": "ENMT",
+            "name": "ENMT"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 218,
+        "fields": {
+            "code": "ENMT",
+            "name": "ENMT"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 219,
+        "fields": {
+            "code": "ENEV",
+            "name": "ENEV"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 220,
+        "fields": {
+            "code": "EGIE",
+            "name": "EGIE"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 221,
+        "fields": {
+            "code": "ENJU",
+            "name": "ENJU"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 222,
+        "fields": {
+            "code": "EQPA",
+            "name": "EQPA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 223,
+        "fields": {
+            "code": "EQPA",
+            "name": "EQPA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 224,
+        "fields": {
+            "code": "EQPA",
+            "name": "EQPA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 225,
+        "fields": {
+            "code": "EQPA",
+            "name": "EQPA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 226,
+        "fields": {
+            "code": "EQTL",
+            "name": "EQTL"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 227,
+        "fields": {
+            "code": "ESPA",
+            "name": "ESPA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 228,
+        "fields": {
+            "code": "YDUQ",
+            "name": "YDUQ"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 229,
+        "fields": {
+            "code": "ALPK",
+            "name": "ALPK"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 230,
+        "fields": {
+            "code": "ESTR",
+            "name": "ESTR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 231,
+        "fields": {
+            "code": "ESTR",
+            "name": "ESTR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 232,
+        "fields": {
+            "code": "ETER",
+            "name": "ETER"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 233,
+        "fields": {
+            "code": "EUCA",
+            "name": "EUCA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 234,
+        "fields": {
+            "code": "EUCA",
+            "name": "EUCA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 235,
+        "fields": {
+            "code": "EVEN",
+            "name": "EVEN"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 236,
+        "fields": {
+            "code": "BAUH",
+            "name": "BAUH"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 237,
+        "fields": {
+            "code": "EZTC",
+            "name": "EZTC"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 238,
+        "fields": {
+            "code": "VRTA1",
+            "name": "VRTA1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 239,
+        "fields": {
+            "code": "HTMX1",
+            "name": "HTMX1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 240,
+        "fields": {
+            "code": "FHER",
+            "name": "FHER"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 241,
+        "fields": {
+            "code": "FESA",
+            "name": "FESA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 242,
+        "fields": {
+            "code": "FESA",
+            "name": "FESA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 243,
+        "fields": {
+            "code": "FLRY",
+            "name": "FLRY"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 244,
+        "fields": {
+            "code": "POWE",
+            "name": "POWE"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 245,
+        "fields": {
+            "code": "FRAS",
+            "name": "FRAS"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 246,
+        "fields": {
+            "code": "BPFF1",
+            "name": "BPFF1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 247,
+        "fields": {
+            "code": "RBRP1",
+            "name": "RBRP1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 248,
+        "fields": {
+            "code": "GFSA",
+            "name": "GFSA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 249,
+        "fields": {
+            "code": "GSHP",
+            "name": "GSHP"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 250,
+        "fields": {
+            "code": "GEPA",
+            "name": "GEPA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 251,
+        "fields": {
+            "code": "GEPA",
+            "name": "GEPA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 252,
+        "fields": {
+            "code": "GOAU",
+            "name": "GOAU"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 253,
+        "fields": {
+            "code": "GGBR",
+            "name": "GGBR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 254,
+        "fields": {
+            "code": "GGBR",
+            "name": "GGBR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 255,
+        "fields": {
+            "code": "NINJ",
+            "name": "NINJ"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 256,
+        "fields": {
+            "code": "GOLL",
+            "name": "GOLL"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 257,
+        "fields": {
+            "code": "GPIV3",
+            "name": "GPIV3"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 258,
+        "fields": {
+            "code": "PCAR",
+            "name": "PCAR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 259,
+        "fields": {
+            "code": "GPCP",
+            "name": "GPCP"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 260,
+        "fields": {
+            "code": "GGPS",
+            "name": "GGPS"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 261,
+        "fields": {
+            "code": "CGRA",
+            "name": "CGRA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 262,
+        "fields": {
+            "code": "CGRA",
+            "name": "CGRA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 263,
+        "fields": {
+            "code": "GRND",
+            "name": "GRND"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 264,
+        "fields": {
+            "code": "GMAT",
+            "name": "GMAT"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 265,
+        "fields": {
+            "code": "SBFG",
+            "name": "SBFG"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 266,
+        "fields": {
+            "code": "SOMA",
+            "name": "SOMA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 267,
+        "fields": {
+            "code": "GUAR",
+            "name": "GUAR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 268,
+        "fields": {
+            "code": "HBTS",
+            "name": "HBTS"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 269,
+        "fields": {
+            "code": "HAGA",
+            "name": "HAGA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 270,
+        "fields": {
+            "code": "HAGA",
+            "name": "HAGA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 271,
+        "fields": {
+            "code": "HAPV",
+            "name": "HAPV"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 272,
+        "fields": {
+            "code": "HBRE",
+            "name": "HBRE"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 273,
+        "fields": {
+            "code": "HCTR1",
+            "name": "HCTR1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 274,
+        "fields": {
+            "code": "HGBS1",
+            "name": "HGBS1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 275,
+        "fields": {
+            "code": "HFOF1",
+            "name": "HFOF1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 276,
+        "fields": {
+            "code": "HBOR",
+            "name": "HBOR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 277,
+        "fields": {
+            "code": "HETA",
+            "name": "HETA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 278,
+        "fields": {
+            "code": "HETA",
+            "name": "HETA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 279,
+        "fields": {
+            "code": "HBSA",
+            "name": "HBSA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 280,
+        "fields": {
+            "code": "HOOT",
+            "name": "HOOT"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 281,
+        "fields": {
+            "code": "HYPE",
+            "name": "HYPE"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 282,
+        "fields": {
+            "code": "IGBR",
+            "name": "IGBR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 283,
+        "fields": {
+            "code": "IGTA",
+            "name": "IGTA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 284,
+        "fields": {
+            "code": "PARD",
+            "name": "PARD"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 285,
+        "fields": {
+            "code": "ROMI",
+            "name": "ROMI"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 286,
+        "fields": {
+            "code": "IDVL",
+            "name": "IDVL"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 287,
+        "fields": {
+            "code": "IDVL",
+            "name": "IDVL"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 288,
+        "fields": {
+            "code": "INEP",
+            "name": "INEP"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 289,
+        "fields": {
+            "code": "INEP",
+            "name": "INEP"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 290,
+        "fields": {
+            "code": "IFCM",
+            "name": "IFCM"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 291,
+        "fields": {
+            "code": "INTB",
+            "name": "INTB"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 292,
+        "fields": {
+            "code": "GNDI",
+            "name": "GNDI"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 293,
+        "fields": {
+            "code": "MEAL",
+            "name": "MEAL"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 294,
+        "fields": {
+            "code": "MYPK",
+            "name": "MYPK"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 295,
+        "fields": {
+            "code": "RANI",
+            "name": "RANI"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 296,
+        "fields": {
+            "code": "RANI",
+            "name": "RANI"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 297,
+        "fields": {
+            "code": "IRBR",
+            "name": "IRBR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 298,
+        "fields": {
+            "code": "BOVA1",
+            "name": "BOVA1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 299,
+        "fields": {
+            "code": "IVVB1",
+            "name": "IVVB1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 300,
+        "fields": {
+            "code": "ITUB",
+            "name": "ITUB"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 301,
+        "fields": {
+            "code": "ITUB",
+            "name": "ITUB"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 302,
+        "fields": {
+            "code": "ITSA",
+            "name": "ITSA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 303,
+        "fields": {
+            "code": "ITSA",
+            "name": "ITSA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 304,
+        "fields": {
+            "code": "JBDU",
+            "name": "JBDU"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 305,
+        "fields": {
+            "code": "JBDU",
+            "name": "JBDU"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 306,
+        "fields": {
+            "code": "JALL",
+            "name": "JALL"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 307,
+        "fields": {
+            "code": "JBSS",
+            "name": "JBSS"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 308,
+        "fields": {
+            "code": "JDCO3",
+            "name": "JDCO3"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 309,
+        "fields": {
+            "code": "JPSA",
+            "name": "JPSA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 310,
+        "fields": {
+            "code": "JHSF",
+            "name": "JHSF"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 311,
+        "fields": {
+            "code": "JFEN",
+            "name": "JFEN"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 312,
+        "fields": {
+            "code": "JOPA",
+            "name": "JOPA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 313,
+        "fields": {
+            "code": "JOPA",
+            "name": "JOPA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 314,
+        "fields": {
+            "code": "KLAS",
+            "name": "KLAS"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 315,
+        "fields": {
+            "code": "CTKA",
+            "name": "CTKA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 316,
+        "fields": {
+            "code": "CTKA",
+            "name": "CTKA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 317,
+        "fields": {
+            "code": "KEPL",
+            "name": "KEPL"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 318,
+        "fields": {
+            "code": "KNRI1",
+            "name": "KNRI1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 319,
+        "fields": {
+            "code": "KLBN",
+            "name": "KLBN"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 320,
+        "fields": {
+            "code": "KLBN",
+            "name": "KLBN"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 321,
+        "fields": {
+            "code": "KLBN1",
+            "name": "KLBN1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 322,
+        "fields": {
+            "code": "LAVV",
+            "name": "LAVV"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 323,
+        "fields": {
+            "code": "LLBI",
+            "name": "LLBI"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 324,
+        "fields": {
+            "code": "LLBI",
+            "name": "LLBI"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 325,
+        "fields": {
+            "code": "LLIS",
+            "name": "LLIS"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 326,
+        "fields": {
+            "code": "LIGT",
+            "name": "LIGT"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 327,
+        "fields": {
+            "code": "LINX",
+            "name": "LINX"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 328,
+        "fields": {
+            "code": "RENT",
+            "name": "RENT"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 329,
+        "fields": {
+            "code": "LWSA",
+            "name": "LWSA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 330,
+        "fields": {
+            "code": "LOGG",
+            "name": "LOGG"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 331,
+        "fields": {
+            "code": "LOGN",
+            "name": "LOGN"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 332,
+        "fields": {
+            "code": "LAME",
+            "name": "LAME"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 333,
+        "fields": {
+            "code": "LAME",
+            "name": "LAME"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 334,
+        "fields": {
+            "code": "AMAR",
+            "name": "AMAR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 335,
+        "fields": {
+            "code": "LREN",
+            "name": "LREN"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 336,
+        "fields": {
+            "code": "LPSB",
+            "name": "LPSB"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 337,
+        "fields": {
+            "code": "LUPA",
+            "name": "LUPA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 338,
+        "fields": {
+            "code": "MDIA",
+            "name": "MDIA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 339,
+        "fields": {
+            "code": "MGLU",
+            "name": "MGLU"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 340,
+        "fields": {
+            "code": "MGEL",
+            "name": "MGEL"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 341,
+        "fields": {
+            "code": "POMO",
+            "name": "POMO"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 342,
+        "fields": {
+            "code": "POMO",
+            "name": "POMO"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 343,
+        "fields": {
+            "code": "MRFG",
+            "name": "MRFG"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 344,
+        "fields": {
+            "code": "MATD",
+            "name": "MATD"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 345,
+        "fields": {
+            "code": "MXRF1",
+            "name": "MXRF1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 346,
+        "fields": {
+            "code": "MSPA",
+            "name": "MSPA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 347,
+        "fields": {
+            "code": "MSPA",
+            "name": "MSPA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 348,
+        "fields": {
+            "code": "CASH",
+            "name": "CASH"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 349,
+        "fields": {
+            "code": "MELK",
+            "name": "MELK"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 350,
+        "fields": {
+            "code": "BMEB",
+            "name": "BMEB"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 351,
+        "fields": {
+            "code": "BMEB",
+            "name": "BMEB"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 352,
+        "fields": {
+            "code": "MERC",
+            "name": "MERC"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 353,
+        "fields": {
+            "code": "MERC",
+            "name": "MERC"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 354,
+        "fields": {
+            "code": "BMIN",
+            "name": "BMIN"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 355,
+        "fields": {
+            "code": "BMIN",
+            "name": "BMIN"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 356,
+        "fields": {
+            "code": "MFII1",
+            "name": "MFII1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 357,
+        "fields": {
+            "code": "MTIG",
+            "name": "MTIG"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 358,
+        "fields": {
+            "code": "LEVE",
+            "name": "LEVE"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 359,
+        "fields": {
+            "code": "FRIO",
+            "name": "FRIO"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 360,
+        "fields": {
+            "code": "GOAU",
+            "name": "GOAU"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 361,
+        "fields": {
+            "code": "MTSA",
+            "name": "MTSA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 362,
+        "fields": {
+            "code": "MTSA",
+            "name": "MTSA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 363,
+        "fields": {
+            "code": "MILS",
+            "name": "MILS"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 364,
+        "fields": {
+            "code": "BEE",
+            "name": "BEE"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 365,
+        "fields": {
+            "code": "BEEF",
+            "name": "BEEF"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 366,
+        "fields": {
+            "code": "MNPR",
+            "name": "MNPR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 367,
+        "fields": {
+            "code": "MTRE",
+            "name": "MTRE"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 368,
+        "fields": {
+            "code": "MMXM1",
+            "name": "MMXM1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 369,
+        "fields": {
+            "code": "MMXM",
+            "name": "MMXM"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 370,
+        "fields": {
+            "code": "MBLY",
+            "name": "MBLY"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 371,
+        "fields": {
+            "code": "MOAR",
+            "name": "MOAR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 372,
+        "fields": {
+            "code": "MOSI",
+            "name": "MOSI"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 373,
+        "fields": {
+            "code": "MDNE",
+            "name": "MDNE"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 374,
+        "fields": {
+            "code": "MOVI",
+            "name": "MOVI"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 375,
+        "fields": {
+            "code": "MRVE",
+            "name": "MRVE"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 376,
+        "fields": {
+            "code": "MLAS",
+            "name": "MLAS"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 377,
+        "fields": {
+            "code": "MULT",
+            "name": "MULT"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 378,
+        "fields": {
+            "code": "MNDL",
+            "name": "MNDL"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 379,
+        "fields": {
+            "code": "NTCO",
+            "name": "NTCO"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 380,
+        "fields": {
+            "code": "NATU",
+            "name": "NATU"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 381,
+        "fields": {
+            "code": "NEOE",
+            "name": "NEOE"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 382,
+        "fields": {
+            "code": "NGRD",
+            "name": "NGRD"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 383,
+        "fields": {
+            "code": "BNBR",
+            "name": "BNBR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 384,
+        "fields": {
+            "code": "NORD",
+            "name": "NORD"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 385,
+        "fields": {
+            "code": "NUTR",
+            "name": "NUTR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 386,
+        "fields": {
+            "code": "OPCT",
+            "name": "OPCT"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 387,
+        "fields": {
+            "code": "ODPV",
+            "name": "ODPV"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 388,
+        "fields": {
+            "code": "OIBR",
+            "name": "OIBR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 389,
+        "fields": {
+            "code": "OIBR",
+            "name": "OIBR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 390,
+        "fields": {
+            "code": "OMGE",
+            "name": "OMGE"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 391,
+        "fields": {
+            "code": "ORVR",
+            "name": "ORVR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 392,
+        "fields": {
+            "code": "OSXB",
+            "name": "OSXB"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 393,
+        "fields": {
+            "code": "OFSA",
+            "name": "OFSA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 394,
+        "fields": {
+            "code": "PDTC",
+            "name": "PDTC"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 395,
+        "fields": {
+            "code": "PGMN",
+            "name": "PGMN"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 396,
+        "fields": {
+            "code": "PATI",
+            "name": "PATI"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 397,
+        "fields": {
+            "code": "PATI",
+            "name": "PATI"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 398,
+        "fields": {
+            "code": "PEAB",
+            "name": "PEAB"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 399,
+        "fields": {
+            "code": "PEAB",
+            "name": "PEAB"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 400,
+        "fields": {
+            "code": "PMAM",
+            "name": "PMAM"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 401,
+        "fields": {
+            "code": "PDGR",
+            "name": "PDGR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 402,
+        "fields": {
+            "code": "PETZ",
+            "name": "PETZ"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 403,
+        "fields": {
+            "code": "RPMG",
+            "name": "RPMG"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 404,
+        "fields": {
+            "code": "PETR",
+            "name": "PETR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 405,
+        "fields": {
+            "code": "PETR",
+            "name": "PETR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 406,
+        "fields": {
+            "code": "RECV",
+            "name": "RECV"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 407,
+        "fields": {
+            "code": "PRIO",
+            "name": "PRIO"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 408,
+        "fields": {
+            "code": "PTNT",
+            "name": "PTNT"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 409,
+        "fields": {
+            "code": "PTNT",
+            "name": "PTNT"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 410,
+        "fields": {
+            "code": "PINE",
+            "name": "PINE"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 411,
+        "fields": {
+            "code": "PLPL",
+            "name": "PLPL"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 412,
+        "fields": {
+            "code": "PLAS",
+            "name": "PLAS"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 413,
+        "fields": {
+            "code": "FRTA",
+            "name": "FRTA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 414,
+        "fields": {
+            "code": "PSSA",
+            "name": "PSSA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 415,
+        "fields": {
+            "code": "PSVM1",
+            "name": "PSVM1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 416,
+        "fields": {
+            "code": "PTBL",
+            "name": "PTBL"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 417,
+        "fields": {
+            "code": "POSI",
+            "name": "POSI"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 418,
+        "fields": {
+            "code": "PPLA1",
+            "name": "PPLA1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 419,
+        "fields": {
+            "code": "PRNR",
+            "name": "PRNR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 420,
+        "fields": {
+            "code": "PFRM",
+            "name": "PFRM"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 421,
+        "fields": {
+            "code": "QUAL",
+            "name": "QUAL"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 422,
+        "fields": {
+            "code": "LJQQ",
+            "name": "LJQQ"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 423,
+        "fields": {
+            "code": "RADL",
+            "name": "RADL"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 424,
+        "fields": {
+            "code": "RAIZ",
+            "name": "RAIZ"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 425,
+        "fields": {
+            "code": "RAPT",
+            "name": "RAPT"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 426,
+        "fields": {
+            "code": "RAPT",
+            "name": "RAPT"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 427,
+        "fields": {
+            "code": "RBRR1",
+            "name": "RBRR1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 428,
+        "fields": {
+            "code": "RCSL",
+            "name": "RCSL"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 429,
+        "fields": {
+            "code": "RCSL",
+            "name": "RCSL"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 430,
+        "fields": {
+            "code": "RDOR",
+            "name": "RDOR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 431,
+        "fields": {
+            "code": "REDE",
+            "name": "REDE"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 432,
+        "fields": {
+            "code": "RNEW1",
+            "name": "RNEW1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 433,
+        "fields": {
+            "code": "RNEW",
+            "name": "RNEW"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 434,
+        "fields": {
+            "code": "RNEW",
+            "name": "RNEW"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 435,
+        "fields": {
+            "code": "RSUL",
+            "name": "RSUL"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 436,
+        "fields": {
+            "code": "RDNI",
+            "name": "RDNI"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 437,
+        "fields": {
+            "code": "RBNS1",
+            "name": "RBNS1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 438,
+        "fields": {
+            "code": "RSID",
+            "name": "RSID"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 439,
+        "fields": {
+            "code": "RAIL",
+            "name": "RAIL"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 440,
+        "fields": {
+            "code": "SAPR1",
+            "name": "SAPR1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 441,
+        "fields": {
+            "code": "SAPR",
+            "name": "SAPR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 442,
+        "fields": {
+            "code": "SAPR",
+            "name": "SAPR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 443,
+        "fields": {
+            "code": "SNSY",
+            "name": "SNSY"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 444,
+        "fields": {
+            "code": "SNSY",
+            "name": "SNSY"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 445,
+        "fields": {
+            "code": "SNSY",
+            "name": "SNSY"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 446,
+        "fields": {
+            "code": "SANB",
+            "name": "SANB"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 447,
+        "fields": {
+            "code": "CTSA",
+            "name": "CTSA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 448,
+        "fields": {
+            "code": "CTSA",
+            "name": "CTSA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 449,
+        "fields": {
+            "code": "STBP",
+            "name": "STBP"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 450,
+        "fields": {
+            "code": "SCAR",
+            "name": "SCAR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 451,
+        "fields": {
+            "code": "SMTO",
+            "name": "SMTO"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 452,
+        "fields": {
+            "code": "SLED",
+            "name": "SLED"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 453,
+        "fields": {
+            "code": "SLED",
+            "name": "SLED"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 454,
+        "fields": {
+            "code": "SHUL",
+            "name": "SHUL"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 455,
+        "fields": {
+            "code": "CSAB",
+            "name": "CSAB"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 456,
+        "fields": {
+            "code": "CSAB",
+            "name": "CSAB"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 457,
+        "fields": {
+            "code": "SEQL",
+            "name": "SEQL"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 458,
+        "fields": {
+            "code": "SEER",
+            "name": "SEER"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 459,
+        "fields": {
+            "code": "SIMH",
+            "name": "SIMH"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 460,
+        "fields": {
+            "code": "SQIA",
+            "name": "SQIA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 461,
+        "fields": {
+            "code": "SLCE",
+            "name": "SLCE"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 462,
+        "fields": {
+            "code": "SMFT",
+            "name": "SMFT"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 463,
+        "fields": {
+            "code": "SMLS",
+            "name": "SMLS"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 464,
+        "fields": {
+            "code": "SOND",
+            "name": "SOND"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 465,
+        "fields": {
+            "code": "SOND",
+            "name": "SOND"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 466,
+        "fields": {
+            "code": "SOND",
+            "name": "SOND"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 467,
+        "fields": {
+            "code": "SGPS",
+            "name": "SGPS"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 468,
+        "fields": {
+            "code": "AHEB",
+            "name": "AHEB"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 469,
+        "fields": {
+            "code": "AHEB",
+            "name": "AHEB"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 470,
+        "fields": {
+            "code": "AHEB",
+            "name": "AHEB"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 471,
+        "fields": {
+            "code": "SULA1",
+            "name": "SULA1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 472,
+        "fields": {
+            "code": "SULA",
+            "name": "SULA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 473,
+        "fields": {
+            "code": "SULA",
+            "name": "SULA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 474,
+        "fields": {
+            "code": "SUZB",
+            "name": "SUZB"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 475,
+        "fields": {
+            "code": "TAEE",
+            "name": "TAEE"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 476,
+        "fields": {
+            "code": "TAEE",
+            "name": "TAEE"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 477,
+        "fields": {
+            "code": "TASA",
+            "name": "TASA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 478,
+        "fields": {
+            "code": "TASA",
+            "name": "TASA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 479,
+        "fields": {
+            "code": "TRAD",
+            "name": "TRAD"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 480,
+        "fields": {
+            "code": "TECN",
+            "name": "TECN"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 481,
+        "fields": {
+            "code": "TCSA",
+            "name": "TCSA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 482,
+        "fields": {
+            "code": "TCNO",
+            "name": "TCNO"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 483,
+        "fields": {
+            "code": "TCNO",
+            "name": "TCNO"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 484,
+        "fields": {
+            "code": "TGMA",
+            "name": "TGMA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 485,
+        "fields": {
+            "code": "TEGA",
+            "name": "TEGA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 486,
+        "fields": {
+            "code": "TEKA",
+            "name": "TEKA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 487,
+        "fields": {
+            "code": "TEKA",
+            "name": "TEKA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 488,
+        "fields": {
+            "code": "TKNO",
+            "name": "TKNO"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 489,
+        "fields": {
+            "code": "TELB",
+            "name": "TELB"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 490,
+        "fields": {
+            "code": "TELB",
+            "name": "TELB"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 491,
+        "fields": {
+            "code": "VIVT",
+            "name": "VIVT"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 492,
+        "fields": {
+            "code": "VIVT",
+            "name": "VIVT"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 493,
+        "fields": {
+            "code": "TEND",
+            "name": "TEND"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 494,
+        "fields": {
+            "code": "TXSA3",
+            "name": "TXSA3"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 495,
+        "fields": {
+            "code": "TESA",
+            "name": "TESA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 496,
+        "fields": {
+            "code": "LAND",
+            "name": "LAND"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 497,
+        "fields": {
+            "code": "TXRX",
+            "name": "TXRX"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 498,
+        "fields": {
+            "code": "TIMS",
+            "name": "TIMS"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 499,
+        "fields": {
+            "code": "SHOW",
+            "name": "SHOW"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 500,
+        "fields": {
+            "code": "TOTS",
+            "name": "TOTS"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 501,
+        "fields": {
+            "code": "TFCO",
+            "name": "TFCO"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 502,
+        "fields": {
+            "code": "TRPL",
+            "name": "TRPL"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 503,
+        "fields": {
+            "code": "TRPL",
+            "name": "TRPL"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 504,
+        "fields": {
+            "code": "TAEE1",
+            "name": "TAEE1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 505,
+        "fields": {
+            "code": "LUXM",
+            "name": "LUXM"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 506,
+        "fields": {
+            "code": "TRIS",
+            "name": "TRIS"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 507,
+        "fields": {
+            "code": "TPIS",
+            "name": "TPIS"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 508,
+        "fields": {
+            "code": "TRXF1",
+            "name": "TRXF1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 509,
+        "fields": {
+            "code": "TUPY",
+            "name": "TUPY"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 510,
+        "fields": {
+            "code": "RECT1",
+            "name": "RECT1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 511,
+        "fields": {
+            "code": "UGPA",
+            "name": "UGPA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 512,
+        "fields": {
+            "code": "UCAS",
+            "name": "UCAS"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 513,
+        "fields": {
+            "code": "UNIP",
+            "name": "UNIP"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 514,
+        "fields": {
+            "code": "UNIP",
+            "name": "UNIP"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 515,
+        "fields": {
+            "code": "UNIP",
+            "name": "UNIP"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 516,
+        "fields": {
+            "code": "USIM",
+            "name": "USIM"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 517,
+        "fields": {
+            "code": "USIM",
+            "name": "USIM"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 518,
+        "fields": {
+            "code": "USIM",
+            "name": "USIM"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 519,
+        "fields": {
+            "code": "VALE",
+            "name": "VALE"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 520,
+        "fields": {
+            "code": "VLID",
+            "name": "VLID"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 521,
+        "fields": {
+            "code": "VAMO",
+            "name": "VAMO"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 522,
+        "fields": {
+            "code": "LVBI1",
+            "name": "LVBI1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 523,
+        "fields": {
+            "code": "PVBI1",
+            "name": "PVBI1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 524,
+        "fields": {
+            "code": "VIIA",
+            "name": "VIIA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 525,
+        "fields": {
+            "code": "VBBR",
+            "name": "VBBR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 526,
+        "fields": {
+            "code": "VILG1",
+            "name": "VILG1"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 527,
+        "fields": {
+            "code": "VITT",
+            "name": "VITT"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 528,
+        "fields": {
+            "code": "VIVA",
+            "name": "VIVA"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 529,
+        "fields": {
+            "code": "VVEO",
+            "name": "VVEO"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 530,
+        "fields": {
+            "code": "VIVR",
+            "name": "VIVR"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 531,
+        "fields": {
+            "code": "VULC",
+            "name": "VULC"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 532,
+        "fields": {
+            "code": "LVTC",
+            "name": "LVTC"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 533,
+        "fields": {
+            "code": "WEGE",
+            "name": "WEGE"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 534,
+        "fields": {
+            "code": "WEST",
+            "name": "WEST"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 535,
+        "fields": {
+            "code": "MWET",
+            "name": "MWET"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 536,
+        "fields": {
+            "code": "MWET",
+            "name": "MWET"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 537,
+        "fields": {
+            "code": "WHRL",
+            "name": "WHRL"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 538,
+        "fields": {
+            "code": "WHRL",
+            "name": "WHRL"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 539,
+        "fields": {
+            "code": "WSON3",
+            "name": "WSON3"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 540,
+        "fields": {
+            "code": "WIZS",
+            "name": "WIZS"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 541,
+        "fields": {
+            "code": "WLMM",
+            "name": "WLMM"
+        }
+    },
+    {
+        "model": "core.assets",
+        "pk": 542,
+        "fields": {
+            "code": "WLM",
+            "name": "WLM"
+        }
+    }
+]
