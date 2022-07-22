@@ -122,7 +122,7 @@ EMAIL_PORT = "587"
 EMAIL_HOST_USER = "email@email.com"
 EMAIL_HOST_PASSWORD = "senha_exemplo"
 
-LOGIN_REDIRECT_URL = '/'
+LOGIN_REDIRECT_URL = '/stock/'
 LOGOUT_REDIRECT_URL = '/accounts/login/'
 
 STATIC_URL = 'static/'

@@ -32,8 +32,8 @@
                     <tr>
                         <td><a href="{% url 'details' pk=asset.pk %}">{{ asset.asset.name }}</a></td>
                         <td>R$ {{ asset.price }}</td>
-                        <td>R$ {{ asset.minimum_price }}</td>
-                        <td>R$ {{ asset.maximum_price }}</td>
+                        <td>R$ {{ asset.minimun_price }}</td>
+                        <td>R$ {{ asset.maximun_price }}</td>
                         <td>{{ asset.frequency }}</td>
                     </tr>
                     {% endfor %}

@@ -11,7 +11,7 @@ class RegisteredAssets(models.Model):
     investor = models.ForeignKey(User, on_delete=models.CASCADE)
     asset = models.ForeignKey(Assets, on_delete=models.CASCADE)
     price = models.DecimalField(max_digits=255, decimal_places=2)
-    minimum_price = models.DecimalField(max_digits=255, decimal_places=2)
-    maximum_price = models.DecimalField(max_digits=255, decimal_places=2)
+    minimun_price = models.DecimalField(max_digits=255, decimal_places=2)
+    maximun_price = models.DecimalField(max_digits=255, decimal_places=2)
     frequency = models.IntegerField(max_length=3)
 

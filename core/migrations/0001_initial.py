@@ -27,8 +27,8 @@ class Migration(migrations.Migration):
             fields=[
                 ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
                 ('price', models.DecimalField(decimal_places=2, max_digits=255)),
-                ('minimum_price', models.DecimalField(decimal_places=2, max_digits=255)),
-                ('maximum_price', models.DecimalField(decimal_places=2, max_digits=255)),
+                ('minimun_price', models.DecimalField(decimal_places=2, max_digits=255)),
+                ('maximun_price', models.DecimalField(decimal_places=2, max_digits=255)),
                 ('frequency', models.DurationField()),
                 ('asset', models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to='core.assets')),
                 ('investor', models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to=settings.AUTH_USER_MODEL)),

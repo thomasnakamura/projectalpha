@@ -35,11 +35,11 @@ class AssetNotifier():
     def sell_nodifier(self, obj):
         return (
             self.title.format('venda', obj.asset.name),
-            self.message.format(obj.asset.name, 'máximo', obj.price, obj.maximum_price)
+            self.message.format(obj.asset.name, 'máximo', obj.price, obj.maximun_price)
         )
 
     def buy_notifier(self, obj):
         return (
             self.title.format('compra', obj.asset.name),
-            self.message.format(obj.asset.name, 'mínimo', obj.price, obj.minimum_price)
+            self.message.format(obj.asset.name, 'mínimo', obj.price, obj.minimun_price)
         )
